@@ -1,0 +1,19 @@
+
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+target/
+build/
+
+# Eclipse workspace settings
+.metadata/
+.settings/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
